@@ -1,0 +1,35 @@
+
+
+while3
+do…while 3
+for 4
+if[…else if],[…else] 4 
+saltos 7
+Variables estáticas 10
+Funciones en variables 11
+voidfoo() 13
+primeros100 númerostriangulares 15
+Modifica este programa para que funcione y calcule el factorial de un número 15
+Cuanto vale x? cuanto vale ptr? 19
+Modificar el siguiente código para que la variable numse pase por referencia.30
+Modificar el siguiente código para funcione correctamente 30
+Detectar problemas de memoria en el siguiente código: 41
+Trabajo Fin repaso C 43
+Si entiendes este ejemplo… ya ha terminado la clase de hoy 50
+Accesoa los miembros 53
+Clases dentro de clases? 55
+Por valor o por referencia? 56
+Métodos 57
+Constructores 63
+Si entiendes este ejemplo… ya ha terminado la clase de hoy 64
+Constructores copia 66
+CONSTRUCTORES COPIA 67
+templates 72
+Definir una plantilla que permita ordenar arraysde diferentes tipos de datos 73
+EjemploHerencia 78
+La clase MCircle 89
+El puntero especial this 94
+Definición de operadores para una clase (ejemplo dificilillo) 95
+Para que admita números reales puros e imaginarios puros •Para que realice resta, multiplicación y división de complejos 98
+En lugar de esteejercicio realizar otro en el que se pueda aplicar los conceptos de herencia y polimorfismo sobre una aplicación en Ingeniería 99
+Ejemplo  y Ejercicio 101 y 102
