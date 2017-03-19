@@ -34,11 +34,11 @@ TEMA 3:
     Imprime el contenido del vector (puede usar la función printVector del ejercicio anterior). 98 (YOLANDA)
   - Implementar un ‘Diccionario’. El diccionario debe contener palabras en castellano y una lista de posibles
     significados de cada palabra. 109 (FRAN)
-  - Escribir una función plantilla palindromo, que acepte un vector y devuelva 1 si se trata de un palindromo  (YOLANDA)
+  - Escribir una función plantilla palindromo, que acepte un vector y devuelva 1 si se trata de un palindromo 
     (los elementos del vector tomados de derecha a izquierda coinciden con los tomados de izquierda a derecha) y 0 en 
     caso contrario. 117 (YOLANDA)
-  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales (YOLANDA)
+  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales 
+    que se encuentran en el vector por el carácter ‘*’. Incluir librería algorithm. 118 (YOLANDA)
   
-  
- Incluir encima de cada ejercicio o al lado quien va a hacer cada uno.
-    que se encuentran en el vector por el carácter ‘*’. Incluir librería algorithm. 118
+ Incluir encima de cada ejercicio o al lado quien va a hacer cada uno.  
+   
