@@ -1,0 +1,44 @@
+Hola chicos, he quitado los ejercicios de repetir ejemplos ya que son muchos ejercicios y solo somos 4. 
+Por mi, los ejercicios a exponer se quedaría en los siguiente:
+TEMA 2:
+   - while3
+   - do…while 3
+   - for 4
+   - if[…else if],[…else] 4 
+   - saltos 7
+   - Variables estáticas 10
+   - Funciones en variables 11
+   - voidfoo() 13
+   - primeros100 númerostriangulares 15
+   - Modifica este programa para que funcione y calcule el factorial de un número 15
+   - Cuanto vale x? cuanto vale ptr? 19
+   - Modificar el siguiente código para que la variable numse pase por referencia.30
+   - Modificar el siguiente código para funcione correctamente 30
+   - Detectar problemas de memoria en el siguiente código: 41
+   - Trabajo Fin repaso C 43
+   - Definir una plantilla que permita ordenar arraysde diferentes tipos de datos 73
+   - Para que admita números reales puros e imaginarios puros •Para que realice resta, multiplicación y división de complejos 98
+   - En lugar de este ejercicio realizar otro en el que se pueda aplicar los conceptos de herencia y polimorfismo sobre una aplicación en Ingeniería 99
+   - Ejemplo  y Ejercicio 101 y 102
+ 
+TEMA 3:
+  - Implementación en C de búsqueda en grafos (no Informados) en anchura y profundidad 38 (FRAN)
+  - Implemente una función que reciba un string S y una letra X, y ponga en mayúsculas cada ocurrencia de X en S. 66
+  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales
+    que se encuentran en el vector por el carácter ‘*’. 89
+  - Escribir una función printVector que acepte un vector de cualquier clase y muestre todos sus elementos por pantalla, 
+    separados por un espacio. Si el vector está vacío mostrar en pantalla “[vector vacío]”. La función devolverá 
+    el nº de elementos del vector. 92
+  - Cree un vector que contenga los números enteros del 1 al 10 (en ese orden).Elimina los números pares. 
+    Invierte el orden de los elementos del vector. Inserta los números pares en el lugar que les corresponde en el nuevo orden
+    Imprime el contenido del vector (puede usar la función printVector del ejercicio anterior). 98
+  - Implementar un ‘Diccionario’. El diccionario debe contener palabras en castellano y una lista de posibles
+    significados de cada palabra. 109 (FRAN)
+  - Escribir una función plantilla palindromo, que acepte un vector y devuelva 1 si se trata de un palindromo 
+    (los elementos del vector tomados de derecha a izquierda coinciden con los tomados de izquierda a derecha) y 0 en 
+    caso contrario. 117
+  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales
+  
+  
+ Incluir encima de cada ejercicio o al lado quien va a hacer cada uno.
+    que se encuentran en el vector por el carácter ‘*’. Incluir librería algorithm. 118
