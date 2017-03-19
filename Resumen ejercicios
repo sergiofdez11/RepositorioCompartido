@@ -23,21 +23,21 @@ TEMA 2:
  
 TEMA 3:
   - Implementación en C de búsqueda en grafos (no Informados) en anchura y profundidad 38 (FRAN)
-  - Implemente una función que reciba un string S y una letra X, y ponga en mayúsculas cada ocurrencia de X en S. 66
+  - Implemente una función que reciba un string S y una letra X, y ponga en mayúsculas cada ocurrencia de X en S. 66 (YOLANDA)
   - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales
-    que se encuentran en el vector por el carácter ‘*’. 89
+    que se encuentran en el vector por el carácter ‘*’. 89 (YOLANDA)
   - Escribir una función printVector que acepte un vector de cualquier clase y muestre todos sus elementos por pantalla, 
     separados por un espacio. Si el vector está vacío mostrar en pantalla “[vector vacío]”. La función devolverá 
-    el nº de elementos del vector. 92
-  - Cree un vector que contenga los números enteros del 1 al 10 (en ese orden).Elimina los números pares. 
+    el nº de elementos del vector. 92 (YOLANDA)
+  - Cree un vector que contenga los números enteros del 1 al 10 (en ese orden).Elimina los números pares.  (YOLANDA)
     Invierte el orden de los elementos del vector. Inserta los números pares en el lugar que les corresponde en el nuevo orden
-    Imprime el contenido del vector (puede usar la función printVector del ejercicio anterior). 98
+    Imprime el contenido del vector (puede usar la función printVector del ejercicio anterior). 98 (YOLANDA)
   - Implementar un ‘Diccionario’. El diccionario debe contener palabras en castellano y una lista de posibles
     significados de cada palabra. 109 (FRAN)
-  - Escribir una función plantilla palindromo, que acepte un vector y devuelva 1 si se trata de un palindromo 
+  - Escribir una función plantilla palindromo, que acepte un vector y devuelva 1 si se trata de un palindromo  (YOLANDA)
     (los elementos del vector tomados de derecha a izquierda coinciden con los tomados de izquierda a derecha) y 0 en 
-    caso contrario. 117
-  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales
+    caso contrario. 117 (YOLANDA)
+  - Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que posteriormente sustituya todas las vocales (YOLANDA)
   
   
  Incluir encima de cada ejercicio o al lado quien va a hacer cada uno.
