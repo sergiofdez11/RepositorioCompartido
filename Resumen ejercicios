@@ -13,13 +13,13 @@ TEMA 2:
    - Modifica este programa para que funcione y calcule el factorial de un número 15    }
    - Cuanto vale x? cuanto vale ptr? 19                                                 }
    - Modificar el siguiente código para que la variable numse pase por referencia.30    } (SERGIO)
-   - Modificar el siguiente código para funcione correctamente 30                       }
+   - Modificar el siguiente código para funcione correctamente 30                       } 
    - Detectar problemas de memoria en el siguiente código: 41                           }
    - Trabajo Fin repaso C 43                                                            }
    - Definir una plantilla que permita ordenar arraysde diferentes tipos de datos 73    }
    - Para que admita números reales puros e imaginarios puros •Para que realice resta, multiplicación y división de complejos 98 (SERGIO)
-   - En lugar de este ejercicio realizar otro en el que se pueda aplicar los conceptos de herencia y polimorfismo sobre una aplicación en Ingeniería 99
-   - Ejemplo  y Ejercicio 101 y 102                                                     ^
+   - En lugar de este ejercicio realizar otro en el que se pueda aplicar los conceptos de herencia y polimorfismo sobre una aplicación en Ingeniería 99 (SERGIO)
+   - Ejemplo  y Ejercicio 101 y 102                                                     (SERGIO)
  
 TEMA 3:
   - Implementación en C de búsqueda en grafos (no Informados) en anchura y profundidad 38 (FRAN)
